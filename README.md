@@ -4,7 +4,7 @@
   <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="RS_school">
   <br>
   <sub>
-    This is my repository for my kata collections in Codewars.
+    This is my repository for my kata collections that I submited on Codewars
   </sub>
 </div>
 
